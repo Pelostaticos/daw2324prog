@@ -133,7 +133,7 @@ import java.util.Random;
 
 /**
  *
- * @author sergio.garciabutron@gmail.com
+ * @author contacto@bitgarcia.es
  */
 public class Ejercicio04 {
 

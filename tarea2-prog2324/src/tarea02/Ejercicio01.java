@@ -9,7 +9,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 /**
- * @author LUIS NAVARRO ORTIZ
+ * @author Sergio García Butrón
  * 
  * NOTA: El PDF de esta actividad está en el directorio pdfs del proyecto
  * 

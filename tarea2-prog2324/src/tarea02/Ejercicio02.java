@@ -6,7 +6,7 @@ package tarea02;
 
 /**
  *
- * @author sergio.garciabutron@gmail.com
+ * @author contacto@bitgarcia.es
  */
 import java.util.Scanner;
 
