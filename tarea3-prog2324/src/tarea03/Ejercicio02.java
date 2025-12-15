@@ -9,7 +9,7 @@ import java.util.Random;
 /**
  * Ejercicio 2: Uso de la clase Dado
  *
- * @author Profe
+ * @author Sergio García Butrón <contacto@bitgarcia.es>
  */
 public class Ejercicio02 {
 

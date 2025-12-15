@@ -19,7 +19,7 @@ import java.util.InputMismatchException;
 /**
  * Ejercicio 3: Día de cumpleaños
  *
- * @author sergio.garciabutron@gmail.com
+ * @author Sergio García Butrón <contacto@bitgarcia.es>
  */
 public class Ejercicio03 {
 

@@ -9,7 +9,7 @@ import java.time.format.DateTimeFormatter;
 
 /**
  * Ejercicio 1: Trabajo con teatros
- * @author sergio.garciabutron@gmail.com
+ * @author Sergio García Butrón <contacto@bitgarcia.es>
  */
 
 public class Ejercicio01 {
