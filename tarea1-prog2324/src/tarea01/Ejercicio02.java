@@ -34,7 +34,7 @@
  * pueden ocurrir al dividir entre 0, símplemente usa otros números (más adelante 
  * nos ocuparemos de eso).
  * 
- * @author Sergio Garcia Butron <sergio.garciabutron@gmail.com>
+ * @author Sergio Garcia Butron <contacto@bitgarcia.es>
  */
 
 package tarea01;

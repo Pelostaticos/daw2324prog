@@ -27,7 +27,7 @@
  * aunque en la primera palabra la 'r' sea minúscula y en la segunda palabra 
  * la 'R' sea mayúscula.
  *
- * @author Sergio Garcia Butron <sergio.garciabutron@gmail.com>
+ * @author Sergio Garcia Butron <contacto@bitgarcia.es>
  */
 
 package tarea01;

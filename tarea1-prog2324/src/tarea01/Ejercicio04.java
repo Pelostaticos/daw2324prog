@@ -39,7 +39,7 @@
  * egativo o superior a la capacidad máxima del embalse). En las próximas unidades 
  * dispondremos de más herramientas para controlar estas situaciones.
  *
- * @author Sergio Garcia Butron <sergio.garciabutron@gmail.com>
+ * @author Sergio Garcia Butron <contacto@bitgarcia.es>
  */
 
 package tarea01;

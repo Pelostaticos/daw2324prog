@@ -4,7 +4,7 @@
  * Este ejemplo muestra mediante un ejemplo muy sencillo la estructura básica de un programa en Java
  * Debes crear el resto de clases Java para almacenar los distintos ejercicios de esta tarea
  * 
- * @author (indicar aquí el autor del ejercicio)
+ * @author Sergio García Butrón
  */
 package tarea01;
 

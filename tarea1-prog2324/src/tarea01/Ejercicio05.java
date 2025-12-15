@@ -41,7 +41,7 @@
  * operación de casting (los métodos matemáticos de redondeo aún no se han e
  * studiado, por lo que no podrán utilizarse para resolver este problema).
  * 
- * @author Sergio Garcia Butron <sergio.garciabutron@gmail.com>
+ * @author Sergio Garcia Butron <contacto@bitgarcia.es>
  */
 package tarea01;
 

@@ -30,7 +30,7 @@ Ten en cuenta que debes mostrar las cantidades decimales de forma que muestren
 * no se haya visto en esta unidad (busca información en internet sobre cómo hacerlo).
 
  * 
- * @author Sergio Garcia Butron <sergio.garciabutron@gmail.com>
+ * @author Sergio Garcia Butron <contacto@bitgarcia.es>
  */
 
 package tarea01;
