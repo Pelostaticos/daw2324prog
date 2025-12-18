@@ -82,6 +82,6 @@ Se asume la siguiente estructura de tablas:
 | Borrar Limpio | 1. Borrar todas las películas de la plataforma "HBO".<br>2. GestorCine.borrarPlataforma("HBO") | Mensaje: "Plataforma 'HBO' borrada correctamente." | Check: Se verifica mediante un SELECT que la plataforma ya no existe.
 | Cierre de Conexión | Ejecutar el programa completo usando try-with-resources. | Mensaje: "Conexión cerrada automáticamente." (o se verifica con depurador). | Check: Se valida que el flujo de Conexión se cierra automáticamente, asegurando la liberación de recursos. |
 
-<u>Profesor</u>: Jesús Bono Boyero | I.E.S Cristóbal de Monroy.
+<u>Profesor</u>: **Jesús María Bono Boyero** | [I.E.S Cristóbal de Monroy](https://www.iescristobaldemonroy.es/wordpress/)
 
 Desarrollado como parte de la formación DAW durante el Curso 2023/2024.

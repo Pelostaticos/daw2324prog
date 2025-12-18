@@ -59,6 +59,6 @@ Pruebas de Lógica de Negocio:
 | Personalización de Modulo | Modulo | agregarElemento("Cajón") | El array o lista interna de Modulo se incrementa con el nuevo elemento. |
 | Método en Abstracto | Mueble | calcularPrecioFinal() | Debe forzar la implementación en las clases hijas (Armario, Silla) para que no haya error en el cálculo. |
 
-<u>Profesor</u>: Jesús María Bono Boyero | I.E.S Cristóbal de Monroy.
+<u>Profesor</u>: **Jesús María Bono Boyero** | [I.E.S Cristóbal de Monroy](https://www.iescristobaldemonroy.es/wordpress/)
 
 Desarrollado como parte de la formación DAW durante el Curso 2023/2024.

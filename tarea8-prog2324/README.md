@@ -95,6 +95,6 @@ Se asegura la correcta estructura jerárquica para el intercambio de datos.
 </recetario>
 ```
 
-<u>Profesor</u>: Jesús María Bono Boyero | I.E.S Cristóbal de Monroy.
+<u>Profesor</u>: **Jesús María Bono Boyero** | [I.E.S Cristóbal de Monroy](https://www.iescristobaldemonroy.es/wordpress/)
 
 Desarrollado como parte de la formación DAW durante el Curso 2023/2024.

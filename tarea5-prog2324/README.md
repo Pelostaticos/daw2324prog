@@ -49,6 +49,6 @@ Los siguientes casos de prueba están diseñados para verificar la correcta impl
 | Método Mutador (Setter con error) | Ejecutar a1.setCargaActual(500) si la carga máxima es 300kg. | Carga Actual se mantiene sin cambios, o se muestra un mensaje de error (ej: "Carga excede el límite permitido"). |Check: El setter debe rechazar el valor inválido para proteger el estado del objeto.|
 | toString() | Ejecutar System.out.println(a1). | Texto formateado claro, incluyendo todos los atributos relevantes (ej: Modelo, Combustible, Carga, Estado). | Check: El formato de salida debe ser claro y legible, útil para la depuración y la interfaz de usuario. |
 
-<u>Profesor</u>: Jesús María Bono Boyero | I.E.S Cristóbal de Monroy.
+<u>Profesor</u>: **Jesús María Bono Boyero** | [I.E.S Cristóbal de Monroy](https://www.iescristobaldemonroy.es/wordpress/)
 
 Desarrollado como parte de la formación DAW durante el Curso 2023/2024.

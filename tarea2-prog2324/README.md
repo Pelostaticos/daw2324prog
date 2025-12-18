@@ -52,6 +52,6 @@ Utilice los siguientes casos de prueba para verificar los resultados:
 | 3 | Número de Soldados: 85 | Formación: 9 filas de 9 soldados (9 x 9 = 81). Resto: 4 soldados. | 
 | 4 | Intentar 3 veces un giro | Lógica: El bucle debe permitir 3 intentos. Premios: Si los tres símbolos son iguales (ej. 🍉 🍉 🍉), el resultado debe ser "Premio Mayor". Si dos son iguales, "Premio Menor".
 
-<u>Profesor</u>: Jesús María Bono Boyero | I.E.S Cristóbal de Monroy.
+<u>Profesor</u>: **Jesús María Bono Boyero** | [I.E.S Cristóbal de Monroy](https://www.iescristobaldemonroy.es/wordpress/)
 
 Desarrollado como parte de la formación DAW durante el Curso 2023/2024.

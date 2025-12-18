@@ -43,6 +43,6 @@ Utilice los casos de prueba provistos para verificar la robustez de la lógica.
 | PROG04-3 | Inventario de Almacén | Array Bidimensional (3x3): {{100, 150, 90}, {200, 180, 250}, {50, 70, 60}} (Filas: Producto A, B, C / Columnas: Mes 1, 2, 3) Total Producto B (Fila 1): 630. Total Mes 3 (Columna 2): 400. Lógica: Implementación de bucles anidados para sumar correctamente por dimensión (fila o columna). |
 | PROG04-3 | Inventario de Almacén | Búsqueda de Máximo: Usando la matriz 3x3 anterior. Máximo: 250 (ocurrió en Producto B, Mes 3). Lógica: Recorrido eficiente de toda la matriz para determinar el valor pico. |
 
-<u>Profesor</u>: Jesús María Bono Boyero | I.E.S Cristóbal de Monroy.
+<u>Profesor</u>: **Jesús María Bono Boyero** | [I.E.S Cristóbal de Monroy](https://www.iescristobaldemonroy.es/wordpress/)
 
 Desarrollado como parte de la formación DAW durante el Curso 2023/2024.

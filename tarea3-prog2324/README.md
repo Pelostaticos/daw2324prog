@@ -53,6 +53,6 @@ Utilice los siguientes casos de prueba para verificar los resultados:
 | 3 | Fecha de Nacimiento: 18/05/1990 | Salida: La clase Fecha debe almacenar y mostrar la fecha correcta. Cálculo: Debe determinar y mostrar el día de la semana que fue (Viernes) y el número de días transcurridos hasta el día actual. | 
 | 3 | Introducir una fecha inválida: 30/02/2024 | Lógica: El programa debe capturar o propagar la excepción adecuadamente (ej. DateTimeParseException o similar), indicando el defecto de la entrada. |
 
-<u>Profesor</u>: Jesús María Bono Boyero | I.E.S Cristóbal de Monroy.
+<u>Profesor</u>: **Jesús María Bono Boyero** | [I.E.S Cristóbal de Monroy](https://www.iescristobaldemonroy.es/wordpress/)
 
 Desarrollado como parte de la formación DAW durante el Curso 2023/2024.

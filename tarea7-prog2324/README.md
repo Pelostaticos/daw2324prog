@@ -56,6 +56,6 @@ Pruebas de Lógica de Negocio Avanzada:
 |       Búsqueda Eficiente       |              JardinBotanico.buscarPlantaPorNombreCientifico("RosaCanina")              | Tarda menos tiempo si la colección interna está optimizada para la búsqueda (ej. usando un HashMap auxiliar si la búsqueda es por clave). | Check: Se valida que, si la tarea lo requiere, el diseño de la colección interna favorece la eficiencia (evitando el Tamas del código lento). |
 | Coincidencias (Set Operations) | Crear dos HashSet (ej. Plantas de Sol y Plantas Perennes) y usar set1.retainAll(set2); |                         El set1 final contiene solo las plantas que cumplen ambas condiciones (la intersección).                          |                Check: Se valida el uso de operaciones de conjuntos para obtener clasificaciones complejas sin bucles manuales.                | Ejemplo de Salida para Clasificación (HashMap) Salida de JardinBotanico.mostrarClasificacionPorTipo(): |
 
-<u>Profesor</u>: Jesús María Bono Boyero | I.E.S Cristóbal de Monroy.
+<u>Profesor</u>: **Jesús María Bono Boyero** | [I.E.S Cristóbal de Monroy](https://www.iescristobaldemonroy.es/wordpress/)
 
 Desarrollado como parte de la formación DAW durante el Curso 2023/2024.

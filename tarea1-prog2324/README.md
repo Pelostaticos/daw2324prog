@@ -33,6 +33,6 @@ Para ejecutar y probar cualquiera de los ejercicios, siga los siguientes pasos:
 * Localice la clase principal del ejercicio deseado (ej. Ejercicio1.java dentro del paquete es.cifp.programa.ejercicio1).
 * Ejecute la clase como una aplicación Java para ver los resultados por consola.
 
-<u>Profesor</u>: Jesús María Bono Boyero | I.E.S Cristóbal de Monroy.
+<u>Profesor</u>: **Jesús María Bono Boyero** | [I.E.S Cristóbal de Monroy](https://www.iescristobaldemonroy.es/wordpress/)
 
 Desarrollado como parte de la formación DAW durante elCurso 2023/2024.

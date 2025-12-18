@@ -123,6 +123,6 @@ Es fundamental utilizar Sentencias Preparadas (PreparedStatement) para la ejecuc
 
 La competencia principal adquirida en esta etapa reside en la aplicación rigurosa de la Programación Orientada a Objetos (POO), permitiendo la organización del código en clases y objetos coherentes que modelan entidades reales (Teatros, Dados, Fechas, Aeronaves, Muebles, Plantas). Este dominio se complementa con la habilidad de depuración para garantizar la funcionalidad y estabilidad del código.
 
-<u>Profesor</u>: Jesús Bono Boyero | I.E.S Cristóbal de Monroy.
+<u>Profesor</u>: **Jesús María Bono Boyero** | [I.E.S Cristóbal de Monroy](https://www.iescristobaldemonroy.es/wordpress/)
 
 Desarrollado como parte de la formación DAW durante el Curso 2023/2024.
