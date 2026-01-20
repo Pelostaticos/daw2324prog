@@ -1,6 +1,6 @@
 # Programación DAW: Análisis del Dominio de Java
 
-![Imagen destacable del repositorio para el modulo DAW de Programación](https://bitgarcia.es/wp-content/uploads/2025/12/destacable-daw2324prog.png)
+![Imagen destacable del repositorio para el modulo DAW de Programación](https://bitgarcia.es/assets/destacable-daw2324prog.png)
 
 ## 📝 Introducción al Flujo del Módulo
 
